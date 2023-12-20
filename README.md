@@ -1,4 +1,4 @@
-### hello,world! 👋
+### hello,here is CYHooo! 👋
 
 - 🌱 Learning Python, JavaScript, Html, CSS..
 - 🔭 Deep Learning, Machine Learning, Data Science, Web development && Programming Language ...
