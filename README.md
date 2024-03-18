@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/ubuntu-384259?logo=ubuntu&logoColor=F9F9F9&" alt="ubuntu logo" height=30">
     <img src="https://img.shields.io/badge/git-384259?logo=git&logoColor=F9F9F9&" alt="git logo" height=30">
     <img src="https://img.shields.io/badge/github-384259?logo=github&logoColor=F9F9F9&" alt="github logo" height=30">
-</p>
+</p></br>
 
 ### 学习中/Learning with:
 </br>
@@ -28,13 +28,11 @@
     <img src="https://img.shields.io/badge/html5-DA7F8F?logo=html5&logoColor=E1E5EA&" alt="html logo" height=30">
     <img src="https://img.shields.io/badge/ROS-DA7F8F?logo=ros&logoColor=E1E5EA&" alt="ROS logo" height=30">
     <img src="https://img.shields.io/badge/macOS-DA7F8F?logo=apple&logoColor=E1E5EA&" alt="macOS logo" height=30">
-</p>
-
-
+</p></br>
 
 # Github 数据统计/My Github Status
 
-<div align="left">
+<div align="center">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CYHooo&hide_progress=false&&theme=dracula)</br>
 ![Readme Card](https://github-readme-stats-beta-amber-44.vercel.app/api?username=CYHooo&show_icons=true&theme=dracula)
