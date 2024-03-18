@@ -41,12 +41,11 @@
 </div>
 
 # 联系我/Find me here
+<div align="left">
 
-[![微信二维码](https://img.shields.io/badge/Wechat-07C160?logo=wechat&logoColor=E1E5EA&)]()</br>
-
-[![Gmail](https://img.shields.io/badge/Gmail-FF9B50?logo=Gmail&logoColor=E1E5EA&)](mailto:cyh960502@gmail.com) cyh960502@gmail.com </br>
-
-[![INU Mail](https://img.shields.io/badge/INU%20Mail-3A8891?logo=Gmail&logoColor=E1E5EA&)](mailto:cyengho@inu.ac.kr) cyengho@inu.ac.kr
+[![微信二维码](https://img.shields.io/badge/Wechat-07C160?logo=wechat&logoColor=E1E5EA&)]()
+[![Gmail](https://img.shields.io/badge/Gmail-FF9B50?logo=Gmail&logoColor=E1E5EA&)](mailto:cyh960502@gmial.com)
+[![INU Mail](https://img.shields.io/badge/INU%20Mail-3A8891?logo=Gmail&logoColor=E1E5EA&)](mailto:cyengho@inu.ac.kr)
 
 
 
