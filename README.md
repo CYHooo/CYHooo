@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./images/my-logo.svg" width = "256" height = "256" align=center /> </br>
+<img src="https://github.com/CYHooo/CYHooo/blob/main/images/my-logo.svg" width = "256" height = "256" align=center /> </br>
 <img src="https://readme-typing-svg.demolab.com?font=LXGW+WenKai&weight=900&size=48&pause=1000&color=496989&center=true&vCenter=true&random=false&width=500&height=60&lines=Hi!+Here+is+CYHooo~" alt="Typing SVG" /></br>
 </div>
 
@@ -42,7 +42,7 @@
 # 联系我/Find me here
 <div align="left">
 
-[![微信二维码](https://img.shields.io/badge/Wechat-908235517-07C160?logo=wechat&logoColor=E1E5EA&)](./images/wechatQR.jpg)
+[![微信二维码](https://img.shields.io/badge/Wechat-908235517-07C160?logo=wechat&logoColor=E1E5EA&)](https://github.com/CYHooo/CYHooo/blob/main/images/wechatQR.md)
 [![Gmail](https://img.shields.io/badge/cyh960502-%40gmail.com-FF9B50?logo=Gmail&logoColor=E1E5EA)](mailto:cyh960502@gmial.com)
 [![INU Mail](https://img.shields.io/badge/cyengho-%40inu.ac.kr-3A8891?logo=Gmail&logoColor=E1E5EA&)](mailto:cyengho@inu.ac.kr)
 
