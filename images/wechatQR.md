@@ -1,5 +1,5 @@
 ### 扫描下方二维码添加好友
-ID: `yengho`或者`908235517`, 添加请说明来意及备注(`github`).</br>
+ID: `YengHo`或者`908235517`, 添加请说明来意及备注(`github`).</br>
 </br>
 <img src="https://github.com/CYHooo/CYHooo/blob/main/images/wechatQR.jpg" hight="300" width="300"></br>
 </br>
