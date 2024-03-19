@@ -31,7 +31,7 @@
 
 # Github 数据统计/My Github Status
 
-<div align="center">
+<div align="left">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CYHooo&hide_progress=false&&theme=dracula)</br>
 ![Readme Card](https://github-readme-stats-beta-amber-44.vercel.app/api?username=CYHooo&show_icons=true&theme=dracula)
