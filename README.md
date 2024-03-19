@@ -1,9 +1,8 @@
 <div align="center">
 
-<img src="https://github.com/CYHooo/CYHooo/blob/main/images/github-logo.svg" width = "256" height = "256" align=center /> </br>
-<img src="https://readme-typing-svg.demolab.com?font=Yozai&weight=900&size=48&pause=1500&color=5A5F66&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi!+Here+is+CYHooo~" alt="Typing SVG" /></br>
+<img src="https://github.com/CYHooo/CYHooo/blob/main/images/github-logo.svg" width = "256" height = "256" align=center /></br>
+<img src="https://readme-typing-svg.demolab.com?font=Yozai&weight=900&size=48&pause=1500&color=5A5F66&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi!+Here+is+CYHooo~" alt="Typing SVG" />
 </div>
-
 
 # 语言 & 工具/Languages & Tools
 
