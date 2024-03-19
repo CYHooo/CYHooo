@@ -33,8 +33,8 @@
 
 <div align="left">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CYHooo&hide_progress=false&&theme=dracula)</br>
-![Readme Card](https://github-readme-stats-beta-amber-44.vercel.app/api?username=CYHooo&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CYHooo&hide_progress=false&&theme=holi)</br>
+![Readme Card](https://github-readme-stats-beta-amber-44.vercel.app/api?username=CYHooo&show_icons=true&theme=holi)
 
 </div>
 
