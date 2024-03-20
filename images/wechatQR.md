@@ -1,6 +1,12 @@
-### 扫描下方二维码添加好友
+<h3> 
+  扫描下方二维码添加好友
+  <img src="https://github.com/CYHooo/CYHooo/assets/69567520/76bf4499-a903-4173-a98e-55770d12a2c5" height="30">
+</h3>
+
+&emsp;
 ID: `YengHo`或者`908235517`, 添加请说明来意及备注(`github`).</br>
-</br>
+
+&emsp;
 <img src="https://github.com/CYHooo/CYHooo/blob/main/images/wechatQR.jpg" hight="300" width="300"></br>
 </br>
 
