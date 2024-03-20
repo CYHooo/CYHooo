@@ -33,10 +33,9 @@
 
 <div align="center">
 
-
 <img width="40%" height="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CYHooo&hide_progress=false&theme=holi">
 &emsp;&emsp;&emsp;&emsp;
-<img width="40%" height="40%" src="https://github-readme-stats-beta-amber-44.vercel.app/api?username=CYHooo&rank_icon=github&show_icons=true&theme=holi">
+<img width="40%" height="40%" src="https://github-readme-stats.vercel.app/api?username=CYHooo&rank_icon=github&show_icons=true&theme=holi">
 </div>
 
 # 联系我/Find me here
