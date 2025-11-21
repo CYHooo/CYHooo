@@ -11,7 +11,7 @@ ID: `YengHo`或者`908235517`, 添加请说明来意及备注(`github`).</br>
 </br>
 
 
-> - 熟练运用tensorflow和pytorch人工智能框架，熟练运用python, 正在学习C++及IOS端开发，可使用django搭建简单网页.
+> - 熟练运用python以及tensorflow和pytorch人工智能框架，正在学习C++及IOS端开发，可使用django搭建简单网页.
 > 
 > - 在读期间专注研究人工智能计算机视觉领域(segementation, obeject detection等)及其应用(桥梁裂缝检测, 隧道安全检测).
 >
